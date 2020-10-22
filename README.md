@@ -11,4 +11,5 @@ A few good places to start.
 1) "Take Back Control Of Your Cybersecurity Now: Game Changing Concepts on AI and Cyber Governance Solutions for Executives" by Paul A. Ferillo and Christoph Veltsos
 2) "Threat Modeling: Designing for Security" By Adam Shostack
 3) Course titled "Missing Semester" by MIT professor Jon, hosted on youtube. I recommend atleast lectures 1-2 for bash shell scripting, but its better to go through all of the courses. Generally a good security engineer will be able to leverage OS Access Control Lists (ACL's) and kernal programs to enhance system security. Here is Professor Jon's youtube link: https://www.youtube.com/watch?v=Z56Jmr9Z34Q&list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J&index=1
+
 Last modified: 10-22-2020
